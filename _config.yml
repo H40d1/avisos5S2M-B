@@ -1,21 +1,21 @@
 title: Avisos 5S/6F 2M-B
 baseurl: /avisos5S2M-B
-url: "https://ggelado.github.io"
+url: "https://h40d1.github.io"
 theme: jekyll-theme-primer
 locale: es_ES.UTF-8
 lang: es-ES
 timezone: Europe/Madrid
 plugins:
-#  - jekyll-feed # plugin para generar RSS automáticamente
+  - jekyll-feed # plugin para generar RSS automáticamente
   - jekyll-redirect-from
   - jekyll-last-modified-at
   - jekyll-seo-tag
-#  - jekyll-sitemap
+  - jekyll-sitemap
 feed:
   posts_limit: 100
 
-#include:
-#  - .well-known
+include:
+  - .well-known
 exclude:
   - "*.py"
 

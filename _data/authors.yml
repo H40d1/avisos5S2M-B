@@ -1,9 +1,19 @@
 Gonzalo:
-  name: Gonzalo Gelado
-  bio: Delegado de Grupo
-  email: gonzalo.gelado@alumnos.upm.es
-  url: https://www.linkedin.com/in/ggelado/
-  uri: https://orcid.org/0009-0008-9636-1199
-  social:
-    links:
-      - https://www.linkedin.com/in/ggelado/
+   name: Haodi Lin Sun
+   bio: Delegado de Grupo
+   email: haodi.linsun@alumnos.upm.es
+   url: https://www.linkedin.com/in/haodi-lin-sun-b9b3842a5/
+   uri:
+   social:
+      links:
+        - https://www.linkedin.com/in/haodi-lin-sun-b9b3842a5/
+#  name: Gonzalo Gelado
+#  bio: Delegado de Grupo
+#  email: gonzalo.gelado@alumnos.upm.es
+#  url: https://www.linkedin.com/in/ggelado/
+#  uri: https://orcid.org/0009-0008-9636-1199
+#  social:
+#    links:
+#      - https://www.linkedin.com/in/ggelado/
+
+  
