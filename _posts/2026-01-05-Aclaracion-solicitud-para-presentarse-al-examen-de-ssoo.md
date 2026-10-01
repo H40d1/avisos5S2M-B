@@ -13,7 +13,7 @@ redirect_from:
   - /ssoo
   - /SSOO
 ---
-En relación al aviso publicado [aquí](https://ggelado.github.io/avisos5S2M-B/convocatorias%20de%20examen/ssoo/2026/01/02/solicitud-para-presentarse-al-examen-de-ssoo.html) se hace la siguiente aclaración, ante la gran cantidad de consultas recibidas:
+En relación al aviso publicado [aquí](https://h40d1.github.io/avisos5S2M-B/convocatorias%20de%20examen/ssoo/2026/01/02/solicitud-para-presentarse-al-examen-de-ssoo.html) se hace la siguiente aclaración, ante la gran cantidad de consultas recibidas:
 
 - Aquellos alumnos que cursan la asignatura por primera vez (o aprueban la parte teórica por primera vez), que han alcanzado la nota mínima en todos los parciales, **Y QUE NO TIENEN INTENCIÓN DE PRESENTARSE AL EXAMEN FINAL (RECUPERACIÓN)**, únicamente al examen del minishell, deben marcar la opción `Evaluación Progresiva por Parciales`.
 - Aquellos alumnos que no habiendo alcanzado la nota mínima o su calificación es insuficiente en la parte teórica **Y TIENEN INTENCIÓN DE PRESENTARSE AL EXAMEN FINAL (RECUPERACIÓN)** deben marcar la opción `Evaluación Global Final de Semestre`.

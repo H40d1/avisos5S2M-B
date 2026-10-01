@@ -49,6 +49,8 @@ jobs:
   build:
     needs: validate
     runs-on: ubuntu-latest
+    outputs:
+      artifact_name: ${{ steps.artifact_name.outputs.value }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -73,8 +75,14 @@ jobs:
       - name: Build con Jekyll
         uses: actions/jekyll-build-pages@v1
 
+      - name: Nombrar artefacto de esta ejecución
+        id: artifact_name
+        run: echo "value=github-pages-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" >> "$GITHUB_OUTPUT"
+
       - name: Subir artefacto de Pages
         uses: actions/upload-pages-artifact@v3
+        with:
+          name: ${{ steps.artifact_name.outputs.value }}
 
   deploy:
     needs: build
@@ -86,3 +94,5 @@ jobs:
       - name: Desplegar en GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ needs.build.outputs.artifact_name }}

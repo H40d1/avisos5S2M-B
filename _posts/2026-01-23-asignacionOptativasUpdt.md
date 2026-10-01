@@ -9,7 +9,7 @@ excerpt: Ver el aviso en web para consultar la lista - El anterior listado era p
 ---
 
 <embed 
-    src="https://ggelado.github.io/avisos5S2M-B/asignaciones.pdf" 
+    src="https://h40d1.github.io/avisos5S2M-B/asignaciones.pdf"
     type="application/pdf" 
     width="100%" 
     height="600px" />

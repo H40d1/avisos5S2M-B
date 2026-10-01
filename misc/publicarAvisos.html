@@ -1,13 +1,24 @@
 ---
+layout: default
+title: Solicitar un aviso
 permalink: /publicarAvisos.html
 ---
-<!DOCTYPE html>
+
+<h1>Solicitar un aviso</h1>
+<p>Envía tu propuesta mediante este formulario. La revisaremos antes de publicarla.</p>
+<p>
+  <a href="https://github.com/H40d1/avisos5S2M-B/issues/new?template=dar-de-alta-avisos.md">
+    Abrir formulario de solicitud
+  </a>
+</p>
+
+<!--DOCTYPE html>
+--- Esto se pone encima de DOCTYPE html
+permalink: /publicarAvisos.html
+---
 <html lang="es">
 <head>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HP1VJBHQL3"></script>
-<script>
-  window.location.replace("https://ggelado.github.io/finAvisos/");
-</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -17,9 +28,10 @@ permalink: /publicarAvisos.html
 </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Solicitud de Aviso 5S2M-B</title>
+  <title>Solicitud de Aviso 5S2M-B</title-->
   
   <!-- EasyMDE Editor -->
+  <!-- Aquí el inicio de comentario
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
   <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
   
@@ -226,12 +238,15 @@ window.addEventListener('load', async () => {
     const res = await fetch('https://notifierpushrss.onrender.com/health');
 
     if (!res.ok) {
-      window.location.href = 'https://notifierpushrss.onrender.com/avisos.html';
-      return;
+      throw new Error('Servicio no disponible');
     }
 
   } catch (err) {
-    window.location.href = 'https://notifierpushrss.onrender.com/avisos.html';
+    submitBtn.disabled = true;
+    submitBtn.textContent = "Envío no disponible";
+    const responseDiv = document.getElementById('formResponse');
+    responseDiv.textContent = "El servicio de envío no está disponible ahora mismo. No se puede crear ni enviar la solicitud.";
+    responseDiv.className = "error";
     return;
   }
 
@@ -466,3 +481,4 @@ window.addEventListener('load', async () => {
   </script>
 </body>
 </html>
+-->

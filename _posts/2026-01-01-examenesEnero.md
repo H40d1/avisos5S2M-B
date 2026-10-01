@@ -168,11 +168,11 @@ A través del Moodle de las diferentes asignaturas se publicarán las convocator
 
 Si dispones de suscripción activa a las [notificaciones push](https://notifierpushrss.onrender.com/), se enviarán notificaciones y recordatorios ante eventos relevantes, p.ej. las aulas momentos antes de un examen importante y obligatorio.
 
-No curso todas las optativas, así que si quieres colaborar publicando las convocatorias de los distintos exámenes, puedes hacerlo [desde aquí](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md).
+No curso todas las optativas, así que si quieres colaborar publicando las convocatorias de los distintos exámenes, puedes hacerlo [desde aquí](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md).
 
 <p style="background-color: #fff3cd; color: #856404; padding: 15px; border-radius: 8px; border: 1px solid #ffeeba; font-weight: bold; font-size: 1.1em;">
 <span style="text-decoration: underline;">AVISO:</span> 
-  La información aquí mostrada es con carácter informativo, y podría estar desactualizada. LA ÚNICA INFORMACIÓN OFICIAL ES LA PUBLICADA MEDIANTE LOS CANALES DE COMUNICACIÓN DE LAS DISTINTAS ASIGNATURAS. Si encuentras alguna información faltante o que se encuentra desactualizada, rogamos la edites directamente <a href="https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md">aquí</a> o nos lo hagas saber a través de los medios de contacto de los delegados.
+  La información aquí mostrada es con carácter informativo, y podría estar desactualizada. LA ÚNICA INFORMACIÓN OFICIAL ES LA PUBLICADA MEDIANTE LOS CANALES DE COMUNICACIÓN DE LAS DISTINTAS ASIGNATURAS. Si encuentras alguna información faltante o que se encuentra desactualizada, rogamos la edites directamente <a href="https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md">aquí</a> o nos lo hagas saber a través de los medios de contacto de los delegados.
 </p>
 
 # Inteligencia Artificial
@@ -302,7 +302,7 @@ No curso todas las optativas, así que si quieres colaborar publicando las convo
 
 # Reconocimiento de Formas
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # Tecnologías de Red Cisco CCNA
 
@@ -338,11 +338,11 @@ GII 105001044 Fundamentos de Videojuegos 5º 15:00 Bloque 3 aula 3204
 
 # Ecuaciones Diferenciales, Métodos y Modelos
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # Fundamentos Cloud
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # Seguridad de las Tecnologías de la Información y la Comunicación
 
@@ -366,7 +366,7 @@ Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, acced
 
 # Introducción a la Biocomputación
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # Building Up Comunication Skills
 
@@ -376,11 +376,11 @@ Recuerda que debes escribir a Almudena Díaz García para poder acudir al examen
 
 # Información y Computación Cuántica
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # Diseño con Microcontroladores
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 # Español para Extranjeros
 
 105001046 Español para Extranjeros 7º 10:00 Bloque 6 aula 6001
@@ -397,11 +397,11 @@ Alfonso Mateos
 
 # Técnicas de Computación Científica
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # El Arte de Programar
 
-Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
+Agradecemos que contribuyas a rellenar la convocatoria de esta asignatura, accediendo a [https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2026-01-01-examenesEnero.md)
 
 # Procesadores de Lenguajes
 

@@ -7,7 +7,7 @@ author: Gonzalo
 published: false
 expires: 2026-02-27 14:00:00 +0100
 excerpt: "Cortes viernes 8 a 14. Más info ver aviso."
-image: "https://ggelado.github.io/avisos5S2M-B/assets/img/cortes.jpeg"
+image: "https://h40d1.github.io/avisos5S2M-B/assets/img/cortes.jpeg"
 categories:
   - Incidencias
 ---
@@ -18,4 +18,4 @@ Este viernes, de 08:00 a 14:00, se realizará un corte en una de las calles de a
 
 👉 Como alternativa, podéis utilizar el acceso indicado en el plano adjunto 🗺️
 
-![Plano con ruta alternativa](https://ggelado.github.io/avisos5S2M-B/assets/img/cortes.jpeg)
+![Plano con ruta alternativa](https://h40d1.github.io/avisos5S2M-B/assets/img/cortes.jpeg)

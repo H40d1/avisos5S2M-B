@@ -1,0 +1,35 @@
+name: Solicitar un aviso
+description: Envía una propuesta para que el administrador la revise.
+title: "Solicitud de aviso"
+body:
+  - type: markdown
+    attributes:
+      value: La solicitud no se publica automáticamente; el administrador decidirá si la acepta.
+  - type: input
+    id: aviso
+    attributes:
+      label: Título del aviso
+    validations:
+      required: true
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción o texto del aviso
+    validations:
+      required: true
+  - type: input
+    id: inicio
+    attributes:
+      label: Fecha y hora de inicio
+      description: Indica también la zona horaria.
+      placeholder: "2026-10-01 08:05 Europe/Madrid"
+    validations:
+      required: true
+  - type: input
+    id: fin
+    attributes:
+      label: Fecha y hora de fin
+      description: Indica también la zona horaria.
+      placeholder: "2026-10-01 08:30 Europe/Madrid"
+    validations:
+      required: true

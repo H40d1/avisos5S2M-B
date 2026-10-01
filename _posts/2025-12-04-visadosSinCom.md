@@ -13,4 +13,4 @@ excerpt: Concedidos todos los solicitados
 ---
 Se han concedido todos los visados de chuletilla que se habían solicitado para el tema de Sincronización y Comunicación de SSOO.
 
-Más información sobre el examen y consulta de aulas en [https://ggelado.github.io/avisos5S2M-B/convocatorias%20de%20examen/ssoo/2025/12/04/examenSSOO.html](https://ggelado.github.io/avisos5S2M-B/convocatorias%20de%20examen/ssoo/2025/12/04/examenSSOO.html).
+Más información sobre el examen y consulta de aulas en [https://h40d1.github.io/avisos5S2M-B/convocatorias%20de%20examen/ssoo/2025/12/04/examenSSOO.html](https://h40d1.github.io/avisos5S2M-B/convocatorias%20de%20examen/ssoo/2025/12/04/examenSSOO.html).

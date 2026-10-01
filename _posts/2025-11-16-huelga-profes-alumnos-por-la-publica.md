@@ -50,7 +50,7 @@ Un saludo.
 </div>
 
 
-## ¿Sabes de profesores que hayan confirmado su intención de hacer / no hacer huelga? Edita el aviso [aquí](https://github.com/ggelado/avisos5S2M-B/edit/main/_posts/2025-11-16-huelga-profes-alumnos-por-la-publica.md).
+## ¿Sabes de profesores que hayan confirmado su intención de hacer / no hacer huelga? Edita el aviso [aquí](https://github.com/H40d1/avisos5S2M-B/edit/main/_posts/2025-11-16-huelga-profes-alumnos-por-la-publica.md).
 
 ---
 

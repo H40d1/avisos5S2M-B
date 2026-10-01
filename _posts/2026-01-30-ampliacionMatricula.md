@@ -36,7 +36,7 @@ Importante: Nota.- Si un/a estudiante tiene un interés especial en cursar una a
 
 
 <embed 
-    src="https://ggelado.github.io/avisos5S2M-B/asignaciones.pdf" 
+    src="https://h40d1.github.io/avisos5S2M-B/asignaciones.pdf"
     type="application/pdf" 
     width="100%" 
     height="600px" />
