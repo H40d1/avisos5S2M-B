@@ -18,14 +18,15 @@ last_modified_at: 2026-02-22 14:38:00 +0100
 #Recuerda que si un post se modifica, su cliente RSS podría no reflejar los cambios. Por ello se recomienda que aquellos avisos que puedan estar sujetos a cambios regulares (como pueden ser las convocatorias de examen) se revisen accediendo al enlace del aviso y/o Moodle de las asignaturas.
 
 #**INCLUSO HAY UN BOT DE DISCORD QUE PUEDES AGREGAR A TU SERVIDOR [PULSANDO AQUÍ](https://discord.com/oauth2/authorize?client_id=1464244457049424079&permissions=2048&integration_type=0&scope=bot)**
+
+#Puedes incluso agregar los distintos avisos a tu calendario. Simplemente accede a tu proveedor de calendario (p.ej. google calendar), agregar calendario por url e indica `https://h40d1.github.io/avisos5S2M-B/avisos.ics`
+
+#[Agregar a Google Calendar](https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fggelado.github.io%2Favisos5S2M-B%2Favisos.ics).
+#[Agregar a Apple Calendar](webcal://h40d1.github.io/avisos5S2M-B/avisos.ics). (no tengo dispositivos de apple, si no va el link me decís)
 ---
 De ahora en adelante se publicarán aquí las últimas novedades de interés, debido al exceso de publicaciones en el grupo.
 
-Puedes incluso agregar los distintos avisos a tu calendario. Simplemente accede a tu proveedor de calendario (p.ej. google calendar), agregar calendario por url e indica `https://h40d1.github.io/avisos5S2M-B/avisos.ics`
-
-[Agregar a Google Calendar](https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fggelado.github.io%2Favisos5S2M-B%2Favisos.ics).
-[Agregar a Apple Calendar](webcal://h40d1.github.io/avisos5S2M-B/avisos.ics). (no tengo dispositivos de apple, si no va el link me decís)
-
+Esta página web está en constante actualización, y se planteará realizar cambios en un futuro.
 ---
 
 La web está creada por alumnos y para alumnos. Bastantes cosas están muy chapuceras, lo reconocemos, pero por ello el código es público y está abierto a Pull Requests, por lo que animamos a todo el mundo a contribuir con lo que pueda, desde diseño gráfico (de ahí los logos tan cutres, era un requisito de Google para poder configurarla como web-app) hasta la lógica de negocio.
