@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Inicio de servicio
-date: 2025-11-16 19:26:00 +0100
+date: 2026-10-1 23:00:00 +0100
 #author: Gonzalo
 author: H40d1
 published: true
-last_modified_at: 2026-02-22 14:38:00 +0100
+
 
 
 #También estarán disponibles como feed RSS, por lo que se pueden recibir los mensajes desde clientes como Thunderbird, apps móviles (como Feeder), bots de Telegram (p.ej. @FeedRiverBot, con el comando `/add https://h40d1.github.io/avisos5S2M-B/feed.xml`)...
