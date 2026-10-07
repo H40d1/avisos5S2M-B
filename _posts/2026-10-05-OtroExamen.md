@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPTI"
-date: 2026-10-10 10:00:11 +0200
+date: 2026-10-7 11:50:11 +0200
 event_date: 2026-10-29 17:00:00 +0200
 author: H40d1
 published: true
