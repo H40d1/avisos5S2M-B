@@ -1,35 +1,65 @@
 name: Solicitar un aviso
-description: Envía una propuesta para que el administrador la revise.
+description: Envía una propuesta de aviso para que el administrador la revise y decida si la publica.
 title: "Solicitud de aviso"
+
 body:
   - type: markdown
     attributes:
-      value: La solicitud no se publica automáticamente; el administrador decidirá si la acepta.
+      value: |
+        La solicitud no se publica automáticamente. El administrador revisará el contenido y decidirá si la acepta.
+        
+        Introduce las fechas y horas con la zona horaria correspondiente, preferiblemente en formato ISO 8601.
+
   - type: input
-    id: aviso
+    id: title
     attributes:
       label: Título del aviso
+      description: Título breve y descriptivo.
+      placeholder: "Aviso de mantenimiento programado"
     validations:
       required: true
+
   - type: textarea
-    id: descripcion
+    id: excerpt
     attributes:
-      label: Descripción o texto del aviso
+      label: Extracto
+      description: Resumen breve para mostrar en listados y notificaciones.
+      placeholder: "Resumen del aviso en una o dos frases."
     validations:
       required: true
-  - type: input
-    id: inicio
+
+  - type: textarea
+    id: body
     attributes:
-      label: Fecha y hora de inicio
-      description: Indica también la zona horaria.
-      placeholder: "2026-10-01 08:05 Europe/Madrid"
+      label: Contenido del aviso
+      description: Texto completo del aviso. Puedes incluir instrucciones y detalles relevantes.
+      placeholder: "Escribe aquí el contenido completo del aviso."
     validations:
       required: true
+
   - type: input
-    id: fin
+    id: date
     attributes:
-      label: Fecha y hora de fin
-      description: Indica también la zona horaria.
-      placeholder: "2026-10-01 08:30 Europe/Madrid"
+      label: Fecha y hora de publicación
+      description: Momento a partir del cual se publicará el aviso, si es aprobado.
+      placeholder: "2026-10-15T08:00:00+02:00"
+    validations:
+      required: true
+
+  - type: input
+    id: event_date
+    attributes:
+      label: Fecha y hora del evento
+      description: Momento en que tendrá lugar el evento o se producirá el hecho anunciado.
+      placeholder: "2026-10-20T10:30:00+02:00"
+    validations:
+      required: false
+
+  - type: input
+    id: expires
+    attributes:
+      label: Fecha y hora de expiración
+      description: Momento a partir del cual el aviso dejará de estar vigente o visible.
+      placeholder: "2026-10-20T23:59:00+02:00"
     validations:
       required: true
