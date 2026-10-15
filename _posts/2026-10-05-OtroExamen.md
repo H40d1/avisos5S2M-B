@@ -8,7 +8,7 @@ published: true
 expires: 2026-10-29 18:00:11 +0200
 ---
 
-El examen del primer parcial de GPTI se realizará el día 29 de octubre a las 17h, en principio es en clase.
+El examen del primer parcial de GPTI se realizará el día 29 de octubre a las 17h, donde el aula se anunciará unas horas antes del examen.
 
 Notas importantes:
 
