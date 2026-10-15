@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centro de lenguas: Convocatoria exámenes"
+title: "Aviso especial: Centro de lenguas: Convocatoria exámenes"
 date: 2026-11-1 00:00 +0200
 event_date: 2026-11-20 10:00 +0200
 expires: 2026-11-20 19:00 +0200
